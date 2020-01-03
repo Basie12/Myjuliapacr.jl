@@ -1,0 +1,10 @@
+Template:
+  → User: travis
+  → Host: github.com
+  → License: MIT (Travis CI User <travis@example.org> 2019)
+  → Package directory: ~/.julia/dev
+  → Minimum Julia version: v1.0
+  → SSH remote: No
+  → Add packages to main environment: Yes
+  → Commit Manifest.toml: No
+  → Plugins: None
